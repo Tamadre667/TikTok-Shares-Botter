@@ -5,7 +5,7 @@ import threading
 from time import strftime, gmtime, time, sleep
 
 
-class TikTok:
+class TikTok:https://vm.tiktok.com/ZMLbU6AQ7/
     def __init__(self):
         self.added = 0
         self.lock = threading.Lock()
